@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Welcome to my github profile
 <!--
 **ChickenSoupCode/ChickenSoupCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi
+##### There might not be much here now...
+##### But I'm working to add more stuff here..
+##### So, feel free to explore what's currently here. :ok_hand:
+
+:octopus::octopus::octopus::octopus::octopus::octopus::octopus:
