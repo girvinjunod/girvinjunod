@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ##### So, feel free to explore what's currently here. :ok_hand:
 
 :octopus::octopus::octopus::octopus::octopus::octopus::octopus:
+
+### About Me
+###### I'm just an ordinary student from ITB looking to create a positive impact in this world.
+###### Currently I'm interested in learning Web Development and Game Development.
