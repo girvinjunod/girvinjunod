@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 **Technologies**: HTML, CSS, Tailwind CSS, Bootstrap, React, Vue.js, Flask, Node.js, Express.js, MySQL, MariaDB, MongoDB, Git, LaTex
 
-**Currently Exploring**: Go, Svelte, Deno, Data Science
+**Currently Exploring**: Go, Redis, Svelte, Data Science
