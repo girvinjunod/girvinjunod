@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 
 ## Languages, Technologies, and Frameworks
-**Languages** : Python, JavaScript, TypeScript, Java, C/C++, C#, PHP, Prolog
+**Languages** : Python, JavaScript, TypeScript, Go, Java, C/C++, C#, PHP, Prolog
 
-**Technologies**: HTML, CSS, Tailwind CSS, Bootstrap, React, Vue.js, Flask, Node.js, Express.js, MySQL, MariaDB, MongoDB, Git, LaTex
+**Technologies**: HTML, CSS, Tailwind CSS, Bootstrap, React, Vue.js, Flask, Node.js, Express.js, MySQL, MariaDB, MongoDB, Redis, Docker, Git, LaTex
 
-**Currently Exploring**: Go, Redis, Svelte, Data Science
+**Currently Exploring**: Svelte
