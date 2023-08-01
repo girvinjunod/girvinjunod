@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Svelte and Rust
 - 👯 I’m looking to collaborate on any fun projects
 - 💬 Ask me about anything and I'll try to help!
-- ⚡ Fun fact: Apes together strong
+- ⚡ Fun fact: My favorite animal is the Kuhli Loach
 
 [![Years Badge](https://badges.strrl.dev/years/girvinjunod)](https://badges.strrl.dev)
 [![Repos Badge](https://badges.strrl.dev/repos/girvinjunod)](https://badges.strrl.dev)
