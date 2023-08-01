@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Express.JS-000000?logo=express&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Qt-41CD52?logo=Qt&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white&style=for-the-badge">
