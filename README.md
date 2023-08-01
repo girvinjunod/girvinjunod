@@ -49,8 +49,8 @@
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Express.JS-000000?logo=express&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Qt-41CD52?logo=Qt&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Vercel-000000?logo=Vercel&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?logo=Google%20Cloud&logoColor=white&style=for-the-badge">
 
 
